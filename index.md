@@ -10,4 +10,4 @@
 - Java & mysql
 ## 联系方式
 - QQ:1960632963
-- E-mail:oqinchunqing@foxma
+- E-mail:oqinchunqing@foxmail.com
