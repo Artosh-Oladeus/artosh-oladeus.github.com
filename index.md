@@ -12,5 +12,5 @@
 - Java & mysql
 
 ## 联系方式  
-- QQ:1960632963
-- E-mail:oqinchunqing@foxmail.com
+- QQ:1484969656
+- E-mail:chunqingqin@foxmail.com
