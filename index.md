@@ -1,4 +1,4 @@
-## Welcome to qinchunqing's Personal Pages  
+## Welcome to Artosh-Oladeus's Personal Pages  
 
 ## 工作经历
 - 时间：2015~至今
@@ -10,7 +10,3 @@
 
 ## 正在学习  
 - Java & mysql
-
-## 联系方式  
-- QQ:1484969656
-- E-mail:chunqingqin@foxmail.com
